@@ -1,0 +1,29 @@
+[13-Oct-2016 08:42:19 America/Chicago] PHP Warning:  Unterminated comment starting line 101 in /home/blagichk/public_html/addon/elasnas.2ptest.in/application/controllers/Tests.php on line 101
+[13-Oct-2016 08:42:19 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/blagichk/public_html/addon/elasnas.2ptest.in/application/controllers/Tests.php on line 116
+[13-Oct-2016 08:54:50 America/Chicago] PHP Fatal error:  Call to a member function _error_message() on null in /home/blagichk/public_html/addon/elasnas.2ptest.in/application/models/Tests_model.php on line 9
+[13-Oct-2016 08:55:06 America/Chicago] PHP Fatal error:  Call to a member function _error_message() on null in /home/blagichk/public_html/addon/elasnas.2ptest.in/application/models/Tests_model.php on line 9
+[13-Oct-2016 08:55:24 America/Chicago] PHP Fatal error:  Call to a member function _error_message() on null in /home/blagichk/public_html/addon/elasnas.2ptest.in/application/models/Tests_model.php on line 9
+[13-Oct-2016 08:55:41 America/Chicago] PHP Fatal error:  Call to a member function insert() on null in /home/blagichk/public_html/addon/elasnas.2ptest.in/application/models/Tests_model.php on line 9
+[13-Oct-2016 08:55:51 America/Chicago] PHP Fatal error:  Call to a member function insert() on null in /home/blagichk/public_html/addon/elasnas.2ptest.in/application/models/Tests_model.php on line 9
+[13-Oct-2016 08:55:54 America/Chicago] PHP Fatal error:  Call to a member function insert() on null in /home/blagichk/public_html/addon/elasnas.2ptest.in/application/models/Tests_model.php on line 9
+[13-Oct-2016 08:56:25 America/Chicago] PHP Fatal error:  Call to a member function insert() on null in /home/blagichk/public_html/addon/elasnas.2ptest.in/application/models/Tests_model.php on line 9
+[13-Oct-2016 08:56:29 America/Chicago] PHP Fatal error:  Call to a member function insert() on null in /home/blagichk/public_html/addon/elasnas.2ptest.in/application/models/Tests_model.php on line 9
+[13-Oct-2016 08:56:31 America/Chicago] PHP Fatal error:  Call to a member function insert() on null in /home/blagichk/public_html/addon/elasnas.2ptest.in/application/models/Tests_model.php on line 9
+[13-Oct-2016 08:56:42 America/Chicago] PHP Fatal error:  Call to a member function form_insert() on null in /home/blagichk/public_html/addon/elasnas.2ptest.in/application/controllers/Tests.php on line 94
+[13-Oct-2016 08:56:49 America/Chicago] PHP Fatal error:  Call to a member function form_insert() on null in /home/blagichk/public_html/addon/elasnas.2ptest.in/application/controllers/Tests.php on line 94
+[13-Oct-2016 08:57:15 America/Chicago] PHP Fatal error:  Call to a member function insert() on null in /home/blagichk/public_html/addon/elasnas.2ptest.in/application/models/Tests_model.php on line 9
+[08-May-2017 16:47:32 America/Chicago] PHP Fatal error:  Call to undefined function apache_get_version() in /home/blagichk/public_html/addon/elasnas.2ptest.in/application/views/welcome_message.php on line 75
+[08-May-2017 16:53:25 America/Chicago] PHP Fatal error:  Call to undefined function form_open() in /home/blagichk/public_html/addon/elasnas.2ptest.in/application/views/pages/home.php on line 83
+[08-May-2017 16:53:35 America/Chicago] PHP Fatal error:  Call to undefined function form_open() in /home/blagichk/public_html/addon/elasnas.2ptest.in/application/views/pages/home.php on line 83
+[08-May-2017 16:54:07 America/Chicago] PHP Fatal error:  Call to undefined function form_open() in /home/blagichk/public_html/addon/elasnas.2ptest.in/application/views/pages/home.php on line 83
+[08-May-2017 16:55:02 America/Chicago] PHP Fatal error:  Call to undefined function form_open() in /home/blagichk/public_html/addon/elasnas.2ptest.in/application/views/pages/home.php on line 83
+[08-May-2017 16:57:02 America/Chicago] PHP Fatal error:  Call to undefined function form_open() in /home/blagichk/public_html/addon/elasnas.2ptest.in/application/views/pages/home.php on line 30
+[08-May-2017 16:58:57 America/Chicago] PHP Fatal error:  Call to undefined function form_open() in /home/blagichk/public_html/addon/elasnas.2ptest.in/application/views/pages/home.php on line 30
+[08-May-2017 16:58:57 America/Chicago] PHP Fatal error:  Call to undefined function form_open() in /home/blagichk/public_html/addon/elasnas.2ptest.in/application/views/pages/home.php on line 30
+[22-May-2017 15:37:42 America/Chicago] PHP Fatal error:  Class 'Facebook\Facebook' not found in /home/blagichk/public_html/addon/elasnas.2ptest.in/application/libraries/Facebook.php on line 67
+[22-May-2017 15:37:42 America/Chicago] PHP Fatal error:  Class 'Facebook\Facebook' not found in /home/blagichk/public_html/addon/elasnas.2ptest.in/application/libraries/Facebook.php on line 67
+[22-May-2017 15:37:42 America/Chicago] PHP Fatal error:  Class 'Facebook\Facebook' not found in /home/blagichk/public_html/addon/elasnas.2ptest.in/application/libraries/Facebook.php on line 67
+[22-May-2017 15:37:57 America/Chicago] PHP Fatal error:  Class 'Facebook\Facebook' not found in /home/blagichk/public_html/addon/elasnas.2ptest.in/application/libraries/Facebook.php on line 67
+[22-May-2017 15:37:58 America/Chicago] PHP Fatal error:  Class 'Facebook\Facebook' not found in /home/blagichk/public_html/addon/elasnas.2ptest.in/application/libraries/Facebook.php on line 67
+[22-May-2017 15:39:14 America/Chicago] PHP Fatal error:  Class 'Facebook\Facebook' not found in /home/blagichk/public_html/addon/elasnas.2ptest.in/application/libraries/Facebook.php on line 67
+[22-May-2017 15:41:20 America/Chicago] PHP Fatal error:  Class 'Facebook\Facebook' not found in /home/blagichk/public_html/addon/elasnas.2ptest.in/application/libraries/Facebook.php on line 67
